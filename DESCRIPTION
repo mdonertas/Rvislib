@@ -1,0 +1,15 @@
+Package: Rvislib
+Title: Visualization Functions for R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "H. Melike",
+           family = "Donertas",
+           role = c("aut", "cre"),
+           email = "donertas.melike@gmail.com",
+           comment = c(ORCID = "0000-0002-9788-6535"))
+Description: Generic visualization functions for R
+License: `use_gpl3_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
